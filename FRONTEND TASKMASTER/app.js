@@ -1,6 +1,6 @@
 // frontend/app.js
 
-const apiUrl = "http://localhost:5000/api";
+const apiUrl = "https://3mtt-backend-project-main.fly.dev/";
 
 // Helper function to fetch API with authorization
 async function apiFetch(endpoint, options = {}) {
